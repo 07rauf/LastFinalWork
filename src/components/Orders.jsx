@@ -81,7 +81,7 @@ const Orders = ({ orders = [] }) => {
       <input
         class="inputstyle"
         placeholder="***"
-        maxlength="3"
+        maxLength="3"
         id="cvv"
         type="password"
       />

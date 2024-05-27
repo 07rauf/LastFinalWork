@@ -17,10 +17,10 @@ const Midle = ({ searchBrand = '', cartItems = [], setCartItems = () => {}, hand
   };
 
   const addToCart = (product) => {
-    const existingItemIndex = cartItems.findIndex(item => item.product.name === product.name);
-    if (existingItemIndex !== -1) {
+    const inCart = cartItems.findIndex(item => item.product.name === product.name);
+    if (inCart !== -1) {
       const updatedCartItems = [...cartItems];
-      updatedCartItems[existingItemIndex].quantity += 1;
+      updatedCartItems[inCart].quantity += 1;
       setCartItems(updatedCartItems);
     } else {
       setCartItems(prevItems => [...prevItems, { product: product, quantity: 1 }]);
