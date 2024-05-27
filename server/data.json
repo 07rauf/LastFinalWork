@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1",
+        "name": "LEGO Play-Doh Dentist Drill 'n Fill Set",
+        "brand": "LEGO",
+        "price": 20,
+        "details": "Play dentist with the Play-Doh Dentist Drill 'n Fill Set, featuring dentist tools and molds.",
+        "image": "https://igralandia.ru/pictures/good_id48825/pic_namegoods_picture_48825_1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Hot Wheels Monster Trucks Demolition Doubles",
+        "brand": "Hot Wheels",
+        "price": 15,
+        "details": "Engage in head-to-head battles with the Hot Wheels Monster Trucks Demolition Doubles.",
+        "image": "https://cdn1.ozone.ru/s3/multimedia-3/6865179015.jpg"
+    },
+    {
+        "id": "3",
+        "name": "NERF Elite 2.0 Commander RD-6 Blaster",
+        "brand": "NERF",
+        "price": 15,
+        "details": "Gear up for action with the NERF Elite 2.0 Commander RD-6 Blaster, featuring 6-dart rotating drum.",
+        "image": "https://cdn.juguetilandia.com/images/articulos/1999954396g02.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Play-Doh Wheels Firetruck",
+        "brand": "Play-Doh",
+        "price": 25,
+        "details": "Fight pretend fires with the Play-Doh Wheels Firetruck, complete with fire-themed accessories.",
+        "image": "https://cdn1.ozone.ru/s3/multimedia-w/c600/6623560832.jpg"
+    },
+    {
+        "id": "5",
+        "name": "LEGO Technic Bugatti Chiron",
+        "brand": "LEGO",
+        "price": 349,
+        "details": "Discover engineering excellence with the LEGO Technic Bugatti Chiron. This advanced building set features 3599 pieces.",
+        "image": "https://a.allegroimg.com/original/1153b6/011fd07b4c22a8f97cd9659dfff6/LEGO-TECHNIC-Bugatti-Chiron-42083"
+    },
+    {
+        "id": "6",
+        "name": "Hot Wheels Ultimate Garage",
+        "brand": "Hot Wheels",
+        "price": 99,
+        "details": "Experience endless adventures with the Hot Wheels Ultimate Garage, featuring multiple levels of stunts and storage for 140+ cars.",
+        "image": "https://m.media-amazon.com/images/I/91ZZjBAX8BS.jpg"
+    },
+    {
+        "id": "7",
+        "name": "LEGO Harry Potter Hogwarts Castle",
+        "brand": "LEGO",
+        "price": 399,
+        "details": "Recreate the magic of Hogwarts with this detailed castle set. Includes 6020 pieces and 4 minifigures.",
+        "image": "https://static.tildacdn.com/stor3766-3862-4562-a565-353465356562/70846515.png"
+    },
+    {
+        "id": "8",
+        "name": "NERF Ultra One Motorized Blaster",
+        "brand": "NERF",
+        "price": 49,
+        "details": "Experience high-capacity blasting with the NERF Ultra One Motorized Blaster, featuring a 25-dart drum.",
+        "image": "https://storage.googleapis.com/tc-greece-public/media/2022/10/4885c7a5-125297801_01.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Play-Doh Super Color Pack",
+        "brand": "Play-Doh",
+        "price": 20,
+        "details": "Get creative with the Play-Doh Super Color Pack, featuring 20 cans of various colors.",
+        "image": "https://ae01.alicdn.com/kf/HTB1YKISIVXXXXaaXpXXq6xXFXXXI/Free-Shipping-Licenced-Play-Doh-20-Cans-Super-Color-Pack-Playdough-Polymer-Clay-Fimo-Polymer-Toys.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Batman Batmobile and Batboat 2-in-1 Set",
+        "brand": "Batman",
+        "price": 49,
+        "details": "Drive the streets of Gotham or cruise the waters with this 2-in-1 Batmobile and Batboat set.",
+        "image": "https://m.media-amazon.com/images/I/51-hvaqNWTL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Hot Wheels City Super Spin Tire Shop Playset",
+        "brand": "Hot Wheels",
+        "price": 35,
+        "details": "Take your car for a spin at the Hot Wheels City Super Spin Tire Shop Playset.",
+        "image": "https://www.shop24.lt/images/thumbnails/1429/1000/detailed/328/pTRUCA1-26600861enh-z6.jpg"
+    },
+    {
+        "id": "12",
+        "name": "NERF Fortnite BASR-L Blaster",
+        "brand": "NERF",
+        "price": 39,
+        "details": "Emulate the action of Fortnite with the NERF Fortnite BASR-L Blaster, featuring bolt-action and clip-fed blasting.",
+        "image": "https://static.detmir.st/media_out/762/294/3294762/1500/5.jpg?1635712112564"
+    },
+    {
+        "id": "13",
+        "name": "Hot Wheels Color Shifters Sharkport Showdown",
+        "brand": "Hot Wheels",
+        "price": 45,
+        "details": "Dive into action with the Hot Wheels Color Shifters Sharkport Showdown, featuring changing colors and a shark obstacle.",
+        "image": "https://media.s-bol.com/3wl3ORjAxARR/1200x929.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Batman Action Figure",
+        "brand": "Batman",
+        "price": 19,
+        "details": "Bring Gotham's hero to life with this detailed Batman action figure.",
+        "image": "https://www.toyark.com/wp-content/uploads/2019/02/DC-PRIME-BATMAN-ACTION-FIGURE.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Play-Doh Fun Factory Deluxe Set",
+        "brand": "Play-Doh",
+        "price": 25,
+        "details": "Create fun shapes with the Play-Doh Fun Factory Deluxe Set, including multiple shape cutters.",
+        "image": "https://ecsmedia.pl/c/play-doh-masa-plastyczna-zabawna-fabryka-zestaw-b-iext63824199.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Batman Utility Belt",
+        "brand": "Batman",
+        "price": 29,
+        "details": "Gear up like the Dark Knight with this wearable Batman utility belt.",
+        "image": "https://www.thefoamcave.com/wp-content/uploads/2014/08/1ee-Medium.png"
+    },
+    {
+        "id": "17",
+        "name": "NERF Mega Mastodon Blaster",
+        "brand": "NERF",
+        "price": 79,
+        "details": "Unleash mega power with the NERF Mega Mastodon Blaster, featuring motorized blasting and 24-dart rotating drum.",
+        "image": "https://i5.walmartimages.com/asr/84615a00-1db8-45d0-9d7e-83f613c9fb06_1.c8c8b07850e58d59ef7cacd8b8da071d.jpeg"
+    },
+    {
+        "id": "18",
+        "name": "LEGO Star Wars X-Wing Starfighter",
+        "brand": "LEGO",
+        "price": 78,
+        "details": "Build your own X-Wing Starfighter from the Star Wars universe. Includes 731 pieces and four minifigures: Luke Skywalker, Princess Leia, R2-D2, and a Stormtrooper.",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt3e07af4c83a87efd/75355.png"
+    },
+    {
+        "id": "19",
+        "name": "NERF Rival Nemesis MXVII-10K Blaster",
+        "brand": "NERF",
+        "price": 89,
+        "details": "Dominate the battlefield with the NERF Rival Nemesis MXVII-10K Blaster, featuring motorized blasting and a 100-round capacity hopper.",
+        "image": "https://m.media-amazon.com/images/I/719oOPOzt2L._AC_SL1500_.jpg"
+    },
+    {
+        "id": "20",
+        "name": "Play-Doh Kitchen Creations Ultimate Chef Set",
+        "brand": "Play-Doh",
+        "price": 30,
+        "details": "Become a master chef with the Play-Doh Kitchen Creations Ultimate Chef Set, including various kitchen tools and molds.",
+        "image": "https://igralandia.ru/pictures/good_id53618/pic_namegoods_picture_53618_9.jpg"
+    },
+    {
+        "id": "21",
+        "name": "LEGO Creator Expert Taj Mahal",
+        "brand": "LEGO",
+        "price": 369,
+        "details": "Build and admire the architectural wonder of the Taj Mahal. This set includes 5923 pieces.",
+        "image": "https://cdn1.ozone.ru/s3/multimedia-m/c600/6368471578.jpg"
+    },
+    {
+        "id": "22",
+        "name": "NERF Zombie Strike Hammershot Blaster",
+        "brand": "NERF",
+        "price": 19,
+        "details": "Fight off zombies with the NERF Zombie Strike Hammershot Blaster, featuring hammer-action blasting.",
+        "image": "https://m.media-amazon.com/images/I/81AbcBwuNLL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": "23",
+        "name": "Batman Batarang",
+        "brand": "Batman",
+        "price": 15,
+        "details": "Complete your Batman costume with this authentic Batarang replica.",
+        "image": "https://ae01.alicdn.com/kf/HTB1U9OAeY1YBuNjSszeq6yblFXaP.jpg"
+    },
+    {
+        "id": "24",
+        "name": "LEGO NINJAGO City",
+        "brand": "LEGO",
+        "price": 299,
+        "details": "Explore the NINJAGO City with this comprehensive set. Includes 4867 pieces and 19 minifigures.",
+        "image": "https://i5.walmartimages.com/asr/f14b6ec1-76ae-46a8-8a9d-1383064bbd8a.5078a4672142e455243620a3d2bf01c0.jpeg"
+    },
+    {
+        "id": "25",
+        "name": "LEGO Marvel",
+        "brand": "LEGO",
+        "price": 299,
+        "details": "Build the iconic S.H.I.E.L.D. Helicarrier from the Marvel Avengers universe. This set includes 4828 pieces and features minifigures.",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blte0576bb374408455/76291_Box1_v39.png?fit=bounds&format=png&width=320&height=320&dpr=1"
+    },
+    {
+        "id": "26",
+        "name": "Batman Batcave Playset",
+        "brand": "Batman",
+        "price": 79,
+        "details": "Explore the secrets of the Batcave with this interactive playset featuring multiple levels and accessories.",
+        "image": "https://i.ytimg.com/vi/JoaW9eB4rk4/maxresdefault.jpg"
+    },
+    {
+        "id": "27",
+        "name": "Hot Wheels Track Builder Starter Kit",
+        "brand": "Hot Wheels",
+        "price": 25,
+        "details": "Kick off your track building adventures with the Hot Wheels Track Builder Starter Kit.",
+        "image": "https://tehnoteca.ru/img/825/824143/hot_wheels_track_builder_starter_kit_15.jpg"
+    }
+]
