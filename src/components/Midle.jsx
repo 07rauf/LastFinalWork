@@ -140,7 +140,7 @@ const Midle = ({ searchBrand = '', cartItems = [], setCartItems = () => {}, hand
               </li>
             ))}
           </ol>
-          <button className='button-30' type='button' onClick={handleCheckout}>Checkout</button>
+          <button className="btn" type='button' onClick={handleCheckout}> Checkout </button>
         </div>
       </div>
     </div>
