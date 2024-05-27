@@ -8,10 +8,17 @@ import { IoLogoWhatsapp, IoMail } from "react-icons/io5";
 import { BsFillTelephoneFill } from "react-icons/bs";
 import image1 from '../img/img1.png';
 
-const Midle = ({ searchBrand = '', cartItems = [], setCartItems = () => {}, handleCheckout = () => {}, products }) => {
+const Midle = ({ searchBrand = '', cartItems = [], setCartItems = () => {}, handleCheckout = () => {}}) => {
   const [filteredProducts, setFilteredProducts] = useState([]);
   const [isCartOpen, setIsCartOpen] = useState(false);
-
+  const [products, setProducts] = useState([]);
+  useEffect(() => {
+    fetch('http://localhost:5000/users')
+      .then(response => response.json())
+      .then(data => {
+        setProducts(data);
+      });
+  }, []);
   const toggleCart = () => {
     setIsCartOpen(prevState => !prevState);
   };

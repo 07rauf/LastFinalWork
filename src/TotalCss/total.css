@@ -206,19 +206,24 @@ padding: 5px;
         height: 700px;
         z-index: -1000; 
         filter: blur(0px);
-        clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%); }#root {
+        clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
+}#root {
     max-width: 1280px;
     margin: 0 auto;
     padding: 2rem;
-    text-align: center; }.card {
-    padding: 2em; }.read-the-docs {
-    color: #888; }.blueimg {
+    text-align: center;
+  }.card {
+    padding: 2em;
+  }.read-the-docs {
+    color: #888;
+  }.blueimg {
     position: absolute;
     top:120% ;
     left: 0;
     width: 100vw;
     height: 290%;
-    z-index: -1000; }.d-flex {
+    z-index: -1000; 
+}.d-flex {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
