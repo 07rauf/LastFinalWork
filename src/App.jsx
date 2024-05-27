@@ -12,20 +12,11 @@ function App() {
   const [searchBrand, setSearchBrand] = useState('');
   const [cartItems, setCartItems] = useState([]);
   const [orders, setOrders] = useState([]);
-  const [products, setProducts] = useState([]);
 
   const handleCheckout = () => {
     setOrders(cartItems);
     setCartItems([]); 
   };
-
-  useEffect(() => {
-    fetch('http://localhost:5000/users')
-      .then(response => response.json())
-      .then(data => {
-        setProducts(data);
-      });
-  }, []);
 
   return (  
     <div>
