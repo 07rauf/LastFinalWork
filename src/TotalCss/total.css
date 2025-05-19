@@ -443,12 +443,10 @@ top: 14px;
 }.foot-img1{ 
   padding-left: 124px;
   width: 30%;
-  backdrop-filter: invert(80%);
 }.foot-img2{ 
   padding-left: 144px;
   padding-top: 10px;
   width: 35%;
-  backdrop-filter: invert(80%);
   margin-left: 10%;
 }.call{
   display: flex;
